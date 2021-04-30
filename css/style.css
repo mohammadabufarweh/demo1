@@ -1,0 +1,40 @@
+body{
+  width: 1200px;
+  margin: auto;
+}
+
+
+
+.mainSlideShow{
+    position: relative;
+    width: 600px;
+    height: 300px;
+   padding-left: 180px;
+  
+  }
+  .rightArrow{
+    position:absolute;
+    top: 800px;;
+    left: 840px;
+  }
+  .leftArrow{
+    position:absolute;
+    top: 800px;
+    left:243px;
+  }
+  .heroImg{
+    position: relative;
+
+  }
+  .bookingButton{
+    position: absolute;
+    top: 350px;
+    left:243px;
+
+  }
+  .mainParagraph{
+    position: absolute;
+    top: 370px;
+    left:243px;
+color: blanchedalmond;
+  }
